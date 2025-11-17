@@ -46,7 +46,7 @@ This portfolio follows the end-to-end FP&A lifecycle:
 - Actuals consolidation
 - Historical financials cleansing (2018–2019)
 
-****2️⃣ Financial Statement Modeling**
+**2️⃣ Financial Statement Modeling**
 
 - Profit & Loss
 - Balance Sheet
@@ -80,12 +80,12 @@ This portfolio follows the end-to-end FP&A lifecycle:
 
 Summarized in a clean, professional Financial Performance Review deck, similar to what is presented to CFOs and leadership.
 
+
 **📈 What’s Included in This Portfolio**
 
 **📊 Excel FP&A Model (excel/)**
 
-- Complete P&L, BS, CF statements
-- Working capital schedules
+- Complete P&L, BS, CF Bridge
 - Ratio analysis
 - Drivers sheet
 - Forecasting model
@@ -157,6 +157,7 @@ These insights helped shape the FY2020 forecast and strategic recommendations.
 | **docs/**          | Assumptions, methodology, calculation notes, and supporting documentation.                                 |
 | **output/**        | Exported reports, charts, visuals, and other supporting files.                                             |
 
+
 **📁 How to Open the Files**
 **Excel Model**
 Open .xlsx files directly in Excel (recommended) or Google Sheets (limited).
@@ -169,7 +170,6 @@ Open .pptx in PowerPoint.
 
 
 **👩‍💼 About Me**
-
 I’m Varsha Pathinti, a finance professional transitioning into an FP&A career with strong interest in:
 - financial modeling
 - forecasting
@@ -178,7 +178,6 @@ I’m Varsha Pathinti, a finance professional transitioning into an FP&A career 
 This portfolio demonstrates my ability to think like an FP&A Analyst and present financial insights in a structured, leadership-ready manner.
 
 **📫 Contact**
-
 If you'd like to connect or collaborate:
 LinkedIn: https://www.linkedin.com/in/varsha-pathinti-a1a776234/
 Email: varshapathinti@gmail.com
