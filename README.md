@@ -159,6 +159,7 @@ These insights helped shape the FY2020 forecast and strategic recommendations.
 
 
 **📁 How to Open the Files**
+
 **Excel Model**
 Open .xlsx files directly in Excel (recommended) or Google Sheets (limited).
 
